@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: cerva;
+    src: url(/golden_winter/Golden\ Winter.ttf);
+}
+body{
+    background-image: url(https://www.bryair.com.br/wp-content/uploads/2023/02/2560x1706-wordpress_beer2-1024x682.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    font-family: cerva;
+    font-size: 100px;
+    margin-left: 5%;
+    color: rgb(230, 172, 24);
+}
+
+.formulario{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+p{
+    margin-left: 3.5%;
+}
